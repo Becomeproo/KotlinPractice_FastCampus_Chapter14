@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PracticeKotlin14</string>
+    <string name="home">홈</string>
+    <string name="chatList">채팅</string>
+    <string name="myPage">나의 정보</string>
+    <string name="home_actionbar_title">중고 거래</string>
+    <string name="addArticle_actionbar_title">아이템 등록</string>
+    <string name="addArticle_enroll">등록하기</string>
+    <string name="addArticle_title">글 제목</string>
+    <string name="addArticle_price">가격</string>
+    <string name="addArticle_enroll_image">이미지 등록하기</string>
+    <string name="mypage_login">로그인</string>
+    <string name="mypage_sign">회원가입</string>
+    <string name="chatList_actionbar_title">채팅방 리스트</string>
+    <string name="chat_transfer">전송</string>
+</resources>
